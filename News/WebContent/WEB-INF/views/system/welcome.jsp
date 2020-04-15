@@ -9,7 +9,7 @@
 <div title="欢迎使用" style="padding:20px;overflow:hidden; color:red; " >
 	<p style="font-size: 50px; line-height: 60px; height: 60px;">${admin.username}</p>
 	<p style="font-size: 25px; line-height: 30px; height: 30px;">欢迎使用ssm框架新闻管理系统</p>
-  	<p>开发人员：【猿来入此】</p>
+  	<p>开发人员：【小猿】</p>
   	<p>开发周期：2018/12/20 --- 2018/12/25（共计5天）</p>
   	
   	<hr />

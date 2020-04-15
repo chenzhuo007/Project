@@ -2,9 +2,9 @@
 <footer class="footer">
 <div class="container">
 <p>
-	Copyright &copy; 2018.【猿来入此】 All rights reserved.更多实战项目教程
-	<a href="http://programmer.ischoolbar.com/" target="_blank" title="猿来入此">猿来入此</a>
-	|<a href="../system/login" target="_blank" title="猿来入此">登陆后台</a>
+	Copyright &copy; 2020.【小猿】 All rights reserved.新闻的收集者
+	<i class="Hui-iconfont">&#xe67a;</i>
+	<a href="../system/login" target="_blank" title="小猿" style="color: #00b7ee">登陆后台</a>
 </p>
 </div>
 <div id="gotop"><a class="gotop"></a></div>

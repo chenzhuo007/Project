@@ -2,6 +2,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <%@ include file="../common/header.jsp" %>
+<link href="../resources/admin/h-ui/lib/Hui-iconfont/1.0.1/iconfont.css" rel="stylesheet" type="text/css" />
 <section class="container">
 <div class="content-wrap">
 <div class="content">
@@ -12,8 +13,8 @@
 	</ol>
 	<div class="carousel-inner" role="listbox">
 	  <div class="item active">
-	  <a href="#" target="_blank" title="猿来入此新闻博客网站" >
-	  <img src="../resources/home/images/side1.jpg" alt="猿来入此新闻博客网站" class="img-responsive"></a>
+	  <a href="#" target="_blank" title="小猿新闻博客网站" >
+	  <img src="../resources/home/images/side1.jpg" alt="小猿新闻博客网站" class="img-responsive"></a>
 	  </div>
 	  <div class="item">
 	  <a href="#" target="_blank" title="专业网站建设" >

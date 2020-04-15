@@ -11,9 +11,9 @@
 		<span class="item article-meta-time">
 	  		<time class="time" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="发表时间：2016-10-14"><i class="glyphicon glyphicon-time"></i> <fmt:formatDate value="${news.createTime }" pattern="yyyy-MM-dd hh:mm:ss" /></time>
 	  	</span> 
-	  	<span class="item article-meta-source" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="来源：【猿来入此】">
+	  	<span class="item article-meta-source" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="来源：【小猿】">
 	  		<i class="glyphicon glyphicon-globe"></i> 
-	  		猿来入此新闻博客
+	  		小猿新闻博客
 	  	</span> 
 	  	<span class="item article-meta-category" data-toggle="tooltip" data-placement="bottom" title="${news.title }" data-original-title="${news.title }">
 	  		<i class="glyphicon glyphicon-list"></i> 

@@ -7,7 +7,7 @@
 <meta name="renderer" content="webkit">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>猿来入此新闻博客网站${title }</title>
+<title>小猿新闻博客网站${title }</title>
 <meta name="keywords" content="">
 <meta name="description" content="">
 <link rel="stylesheet" type="text/css" href="../resources/home/css/bootstrap.min.css">
@@ -49,15 +49,15 @@ function addFavorite(url, title) {
 	  <!--  
 	  <li><a href="#" >标签云</a></li>
 		<li><a href="#" rel="nofollow" >读者墙</a></li>-->
-		<li><a href="#" onclick="addFavorite('http://programmer.ischoolbar.com/','猿来入此')" title="RSS订阅" >
+		<li><a href="#" onclick="addFavorite('http://programmer.ischoolbar.com/','小猿')" title="RSS订阅" >
 			<i class="fa fa-rss">
 			</i> RSS订阅
 		</a></li>
 	</ul>
-			【猿来入此】做项目，我们是认真的！百闻不如一干！</div>
+			欢迎进入小猿新闻博客网站</div>
   <div class="navbar-header">
 	<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#header-navbar" aria-expanded="false"> <span class="sr-only"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-	<h1 class="logo hvr-bounce-in"><a href="/News/index/index" title="猿来入此新闻博客网站"><img src="../resources/home/images/logo.png" alt="猿来入此新闻博客网站"></a></h1>
+	<h1 class="logo hvr-bounce-in"><a href="/News/index/index" title="小猿新闻博客网站"><img src="../resources/home/images/logo.png" alt="小猿新闻博客网站"></a></h1>
   </div>
   <div class="collapse navbar-collapse" id="header-navbar">
 	<form class="navbar-form visible-xs" action="../news/search_list" method="get">
@@ -68,7 +68,7 @@ function addFavorite(url, title) {
 		</span> </div>
 	</form>
 	<ul class="nav navbar-nav navbar-right">
-	  <li><a data-cont="猿来入此新闻博客网站" title="猿来入此新闻博客网站" href="/News/index/index">首页</a></li>
+	  <li><a data-cont="小猿新闻博客网站" title="小猿新闻博客网站" href="/News/index/index">首页</a></li>
 	  <c:forEach items="${newsCategoryList }" var="newsCategory">
 	  <li><a data-cont="${newsCategory.name }" title="${newsCategory.name }" href="../news/category_list?cid=${newsCategory.id }">${newsCategory.name }</a></li>
 	  </c:forEach>

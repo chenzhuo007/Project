@@ -13,14 +13,14 @@
 			  <span id="total-article-span">888</span>篇
 		  </h2>
 		  <h2>网站运行:
-		  <span id="sitetime">88 </span>天</h2>
+		  <span id="sitetime">521</span>天</h2>
 	  </div>
 		<div role="tabpanel" class="tab-pane contact" id="contact">
 		  <h2>QQ:
-			  <a href="#" target="_blank" rel="nofollow" data-toggle="tooltip" data-placement="bottom" title=""  data-original-title="QQ:1193284480">1193284480</a>
+			  <a href="" onclick="return false;" target="_blank" rel="nofollow" data-toggle="tooltip" data-placement="bottom" title=""  data-original-title="QQ:1789476040">1789476040</a>
 		  </h2>
 		  <h2>Email:
-		  <a href="#" target="_blank" data-toggle="tooltip" rel="nofollow" data-placement="bottom" title=""  data-original-title="#">llqqxf@163.com</a></h2>
+		  <a href="" onclick="return false;" target="_blank" data-toggle="tooltip" rel="nofollow" data-placement="bottom" title=""  data-original-title="1789476040@qq.com">1789476040@qq.com</a></h2>
 	  </div>
 	</div>
   </div>
@@ -36,27 +36,30 @@
 </div>
 <div class="widget widget_hot">
 	  <h3>最新评论文章</h3>
-	  <ul id="last-comment-list">            
-			
-				
-			
-			
+	  <ul id="last-comment-list">
+
+
+
+
 
 	  </ul>
  </div>
- <div class="widget widget_sentence">    
-	<a href="http://programmer.ischoolbar.com/" target="_blank" rel="nofollow" title="猿来入此" >
-	<img style="width: 100%" src="../resources/home/images/ad1.jpg" alt="猿来入此" ></a>    
+ <div class="widget widget_sentence">
+	<a href="http://programmer.ischoolbar.com/" target="_blank" rel="nofollow" title="小猿" >
+	<img style="width: 100%" src="../resources/home/images/ad1.jpg" alt="小猿" ></a>
  </div>
- <div class="widget widget_sentence">    
-	<a href="http://programmer.ischoolbar.com" target="_blank" rel="nofollow" title="猿来入此" >
-	<img style="width: 100%" src="../resources/home/images/ad2.jpg" alt="猿来入此" ></a>    
+ <div class="widget widget_sentence">
+	<a href="http://programmer.ischoolbar.com" target="_blank" rel="nofollow" title="小猿" >
+	<img style="width: 100%" src="../resources/home/images/ad2.jpg" alt="小猿" ></a>
  </div>
 <div class="widget widget_sentence">
   <h3>友情链接</h3>
   <div class="widget-sentence-link">
-	<a href="http://programmer.ischoolbar.com" title="猿来入此" target="_blank" >猿来入此</a>&nbsp;&nbsp;&nbsp;
-	<a href="http://www.ischoolbar.com" title="校园二手市场" target="_blank" >校园二手街</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://www.zhihu.com/" title="知乎" target="_blank" ><i class="Hui-iconfont" style="font-size: 26px">&#xe689;</i></a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/" title="github" target="_blank" ><i class="Hui-iconfont" style="font-size: 26px">&#xe6d1;</i></a>&nbsp;&nbsp;&nbsp;
+	<a href="https://www.douban.com/" title="豆瓣" target="_blank" ><i class="Hui-iconfont" style="font-size: 26px">&#xe67c;</i></a>&nbsp;&nbsp;&nbsp;
+	<a href="https://weibo.com/" title="微博" target="_blank" ><i class="Hui-iconfont" style="font-size: 26px">&#xe6da;</i></a>&nbsp;&nbsp;&nbsp;
+	<a href="https://www.qq.com/" title="QQ" target="_blank" ><i class="Hui-iconfont" style="font-size: 26px">&#xe67b;</i></a>&nbsp;&nbsp;&nbsp;
   </div>
 </div>
 </aside>
