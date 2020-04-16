@@ -49,7 +49,7 @@ function addFavorite(url, title) {
 	  <!--  
 	  <li><a href="#" >标签云</a></li>
 		<li><a href="#" rel="nofollow" >读者墙</a></li>-->
-		<li><a href="#" onclick="addFavorite('http://programmer.ischoolbar.com/','小猿')" title="RSS订阅" >
+		<li><a href="#" onclick="addFavorite('http://localhost:8088/News','小猿')" title="RSS订阅" >
 			<i class="fa fa-rss">
 			</i> RSS订阅
 		</a></li>

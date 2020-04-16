@@ -2,7 +2,6 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <%@ include file="../common/header.jsp" %>
-<link href="../resources/admin/h-ui/lib/Hui-iconfont/1.0.1/iconfont.css" rel="stylesheet" type="text/css" />
 <section class="container">
 <div class="content-wrap">
 <div class="content">
@@ -10,16 +9,26 @@
 	<ol class="carousel-indicators">
 	  <li data-target="#focusslide" data-slide-to="0" class="active"></li>
 	  <li data-target="#focusslide" data-slide-to="1"></li>
+		<li data-target="#focusslide" data-slide-to="2"></li>
+		<li data-target="#focusslide" data-slide-to="3"></li>
 	</ol>
 	<div class="carousel-inner" role="listbox">
 	  <div class="item active">
-	  <a href="#" target="_blank" title="小猿新闻博客网站" >
-	  <img src="../resources/home/images/side1.jpg" alt="小猿新闻博客网站" class="img-responsive"></a>
+	  <a href="https://baike.baidu.com/item/2020%E5%B9%B4/7709224?fromtitle=2020&fromid=371059&fr=aladdin" target="_blank" title="2020" >
+	  <img src="../resources/home/images/side1.png" alt="2020" class="img-responsive"></a>
 	  </div>
 	  <div class="item">
-	  <a href="#" target="_blank" title="专业网站建设" >
-	  <img src="../resources/home/images/side2.jpg" alt="专业网站建设" class="img-responsive"></a>
+	  <a href="http://news.cctv.com/" target="_blank" title="news" >
+	  <img src="../resources/home/images/side2.png" alt="news" class="img-responsive"></a>
 	  </div>
+		<div class="item">
+			<a href="http://www.stdaily.com/" target="_blank" title="earth" >
+				<img src="../resources/home/images/side3.jpg" alt="earth" class="img-responsive"></a>
+		</div>
+		<div class="item">
+			<a href="#" target="_blank" title="people" >
+				<img src="../resources/home/images/side4.jpg" alt="people" class="img-responsive"></a>
+		</div>
 	</div>
 	<a class="left carousel-control" href="#focusslide" role="button" data-slide="prev" rel="nofollow"> 
 		<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> 

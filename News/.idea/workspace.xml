@@ -6,18 +6,16 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f1322a4-9556-4643-851c-186da5a3aff1" name="Default Changelist" comment="delete classes">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="5f1322a4-9556-4643-851c-186da5a3aff1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/WebContent/resources/home/images/side1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/resources/home/images/side2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/resources/home/images/side3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/resources/home/images/side4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/views/common/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/common/header.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/views/home/common/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/home/common/footer.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/views/home/common/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/home/common/header.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/views/home/common/sidebar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/home/common/sidebar.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/views/home/index/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/home/index/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/views/home/news/detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/home/news/detail.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/views/system/edit_password.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/system/edit_password.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/views/system/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/system/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/views/system/welcome.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/system/welcome.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,10 +31,10 @@
     <session id="2130638366">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -46,9 +44,10 @@
           <entry key="html" value="1" />
           <entry key="ico" value="1" />
           <entry key="java" value="19" />
-          <entry key="jpg" value="6" />
-          <entry key="jsp" value="12" />
-          <entry key="png" value="2" />
+          <entry key="jpg" value="9" />
+          <entry key="jsp" value="16" />
+          <entry key="md" value="1" />
+          <entry key="png" value="4" />
           <entry key="properties" value="5" />
           <entry key="xml" value="8" />
         </counts>
@@ -58,9 +57,10 @@
           <entry key="CLASS" value="3" />
           <entry key="CSS" value="4" />
           <entry key="HTML" value="1" />
-          <entry key="Image" value="9" />
+          <entry key="Image" value="14" />
           <entry key="JAVA" value="19" />
-          <entry key="JSP" value="12" />
+          <entry key="JSP" value="16" />
+          <entry key="Markdown" value="1" />
           <entry key="Properties" value="5" />
           <entry key="XML" value="8" />
         </counts>
@@ -72,15 +72,17 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="jsp" value="200" />
+          <entry key="jsp" value="250" />
+          <entry key="md" value="15" />
           <entry key="properties" value="10" />
-          <entry key="txt" value="18" />
+          <entry key="txt" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSP" value="200" />
-          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="JSP" value="250" />
+          <entry key="Markdown" value="15" />
+          <entry key="PLAIN_TEXT" value="32" />
           <entry key="Properties" value="10" />
         </counts>
       </usages-collector>
@@ -91,7 +93,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/home/index/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-318">
+            <state relative-caret-position="76">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
@@ -100,34 +102,56 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/home/common/sidebar.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+            <state relative-caret-position="38">
+              <caret line="2" column="108" selection-start-line="2" selection-start-column="108" selection-end-line="2" selection-end-column="108" />
               <folding>
                 <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#4;n#aside#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#a#1;n#div#0;n#div#4;n#aside#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#a#2;n#div#0;n#div#4;n#aside#0;n#!!top" expanded="true" />
-                <element signature="e#2727#2733#0#HTML" expanded="true" />
-                <element signature="e#2733#2739#0#HTML" expanded="true" />
-                <element signature="e#2739#2745#0#HTML" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#a#3;n#div#0;n#div#4;n#aside#0;n#!!top" expanded="true" />
-                <element signature="e#2873#2879#0#HTML" expanded="true" />
-                <element signature="e#2879#2885#0#HTML" expanded="true" />
-                <element signature="e#2885#2891#0#HTML" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#a#4;n#div#0;n#div#4;n#aside#0;n#!!top" expanded="true" />
-                <element signature="e#3019#3025#0#HTML" expanded="true" />
-                <element signature="e#3025#3031#0#HTML" expanded="true" />
-                <element signature="e#3031#3037#0#HTML" expanded="true" />
+                <element signature="e#3010#3016#0#HTML" expanded="true" />
+                <element signature="e#3016#3022#0#HTML" expanded="true" />
+                <element signature="e#3022#3028#0#HTML" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/home/common/footer.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/home/common/header.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-628">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            <state relative-caret-position="227">
+              <caret line="54" column="17" lean-forward="true" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/resources/home/images/logo.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/resources/home/images/side1.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="19">
+                <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -156,10 +180,11 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/ischoolbar/programmer/entity/admin/NewsCategory.java" />
         <option value="$PROJECT_DIR$/src/config/db.properties" />
-        <option value="$PROJECT_DIR$/WebContent/WEB-INF/views/home/common/header.jsp" />
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/views/home/common/footer.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/WEB-INF/views/home/common/header.jsp" />
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/views/home/index/index.jsp" />
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/views/home/common/sidebar.jsp" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -190,7 +215,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -254,7 +279,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -262,61 +286,12 @@
               <item name="News" type="b2602c69:ProjectViewProjectNode" />
               <item name="News" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="News" type="b2602c69:ProjectViewProjectNode" />
-              <item name="News" type="462c0819:PsiDirectoryNode" />
-              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="News" type="b2602c69:ProjectViewProjectNode" />
-              <item name="News" type="462c0819:PsiDirectoryNode" />
-              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="News" type="b2602c69:ProjectViewProjectNode" />
-              <item name="News" type="462c0819:PsiDirectoryNode" />
-              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="News" type="b2602c69:ProjectViewProjectNode" />
-              <item name="News" type="462c0819:PsiDirectoryNode" />
-              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="News" type="b2602c69:ProjectViewProjectNode" />
-              <item name="News" type="462c0819:PsiDirectoryNode" />
-              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="News" type="b2602c69:ProjectViewProjectNode" />
-              <item name="News" type="462c0819:PsiDirectoryNode" />
-              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="News" type="b2602c69:ProjectViewProjectNode" />
-              <item name="News" type="462c0819:PsiDirectoryNode" />
-              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-              <item name="index" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -325,7 +300,7 @@
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="E:/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586943180690" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587023439004" />
     <property name="last_opened_file_path" value="E:/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -333,6 +308,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\graduationProject\项目源码\News\WebContent\resources\home\images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -347,8 +327,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.100" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat9" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8088/News/" />
       <deployment>
         <artifact name="News:war exploded">
           <settings>
@@ -358,6 +339,8 @@
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_News" />
+        <option name="HTTP_PORT" value="8088" />
+        <option name="JNDI_PORT" value="1098" />
       </server-settings>
       <predefined_log_file id="Tomcat" enabled="true" />
       <predefined_log_file id="Tomcat Catalina" enabled="true" />
@@ -365,7 +348,7 @@
       <predefined_log_file id="Tomcat Host Manager" enabled="false" />
       <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="63102" />
+        <option name="DEBUG_PORT" value="63104" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -431,7 +414,8 @@
       <option name="presentableId" value="Default" />
       <updated>1586322432660</updated>
       <workItem from="1586322441126" duration="4024000" />
-      <workItem from="1586940675066" duration="2426000" />
+      <workItem from="1586940675066" duration="2588000" />
+      <workItem from="1587019169849" duration="4060000" />
     </task>
     <task id="LOCAL-00001" summary="delete classes">
       <created>1586328532133</created>
@@ -440,17 +424,24 @@
       <option name="project" value="LOCAL" />
       <updated>1586328532133</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update views">
+      <created>1586943255751</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586943255751</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6450000" />
+    <option name="totallyTimeSpent" value="10672000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25482833" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27092275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -461,7 +452,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3406214" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.34407365" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -473,7 +464,7 @@
       <window_info anchor="bottom" id="Tail" order="12" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="15" weight="0.35443038" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.19217491" />
       <window_info anchor="bottom" id="Messages" order="16" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -495,7 +486,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="delete classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete classes" />
+    <MESSAGE value="update views" />
+    <option name="LAST_COMMIT_MESSAGE" value="update views" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -692,20 +684,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/resources/home/images/side1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/home/common/footer.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-          <folding>
-            <element signature="e#150#156#0#HTML" expanded="true" />
-            <element signature="n#style#0;n#a#1;n#p#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/resources/home/images/201610241227558789.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -759,41 +737,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/home/common/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="54" column="17" lean-forward="true" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/home/common/footer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/home/index/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-318">
+        <state relative-caret-position="76">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/home/common/sidebar.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+        <state relative-caret-position="38">
+          <caret line="2" column="108" selection-start-line="2" selection-start-column="108" selection-end-line="2" selection-end-column="108" />
           <folding>
             <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#4;n#aside#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#1;n#div#0;n#div#4;n#aside#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#2;n#div#0;n#div#4;n#aside#0;n#!!top" expanded="true" />
-            <element signature="e#2727#2733#0#HTML" expanded="true" />
-            <element signature="e#2733#2739#0#HTML" expanded="true" />
-            <element signature="e#2739#2745#0#HTML" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#3;n#div#0;n#div#4;n#aside#0;n#!!top" expanded="true" />
-            <element signature="e#2873#2879#0#HTML" expanded="true" />
-            <element signature="e#2879#2885#0#HTML" expanded="true" />
-            <element signature="e#2885#2891#0#HTML" expanded="true" />
             <element signature="n#style#0;n#i#0;n#a#4;n#div#0;n#div#4;n#aside#0;n#!!top" expanded="true" />
-            <element signature="e#3019#3025#0#HTML" expanded="true" />
-            <element signature="e#3025#3031#0#HTML" expanded="true" />
-            <element signature="e#3031#3037#0#HTML" expanded="true" />
+            <element signature="e#3010#3016#0#HTML" expanded="true" />
+            <element signature="e#3016#3022#0#HTML" expanded="true" />
+            <element signature="e#3022#3028#0#HTML" expanded="true" />
             <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/home/common/header.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-628">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+    <entry file="file://$PROJECT_DIR$/WebContent/resources/home/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/resources/home/images/side1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="19">
+            <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
